@@ -1,0 +1,21 @@
+/*Mobile/hp*/ 
+@media only screen and (max-width: 480px) {
+    body {
+        background-color: lightblue;
+    }
+    h1{font-size:larger;}
+}
+/*Tablet*/
+@media only screen and (min-width: 768px){
+    body{
+        background-color: lightgreen;
+    }
+    h1{font-size: x-large;}
+}
+/*laptop*/
+@media only screen and (min-width: 1024px){
+    body{
+        background-color: lightpink;
+    }
+    h1{font-size: xx-large;}
+}
